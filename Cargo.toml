@@ -1,15 +1,10 @@
 [package]
-name = "slint-rust-template"
+name = "lur-slint"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 slint = "1.8.0"
 slint-interpreter = "1.8.0"
 spin_on = "0.1.1"
 serde_json = "1.0"
-#slint-build = "1.8.0"
-#[build-dependencies]
-#slint-build = "1.8.0"
